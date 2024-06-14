@@ -1,0 +1,2 @@
+ENTER ANY INTEGER VALUE 1
+you have entered interger  1

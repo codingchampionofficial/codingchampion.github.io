@@ -1,0 +1,12 @@
+
+ Please Enter the Size of an Array :  5
+
+Please Enter the Array Elements
+2
+6
+3
+5
+3
+
+ Total Number of Even Numbers in this Array = 2
+ Total Number of Odd Numbers in this Array = 3

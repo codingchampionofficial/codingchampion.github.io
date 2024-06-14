@@ -1,0 +1,23 @@
+ Please Enter Number of rows and columns  :  3
+3
+
+ Please Enter the Matrix Elements 
+3
+6
+5
+9
+6
+4
+2
+3
+5
+
+ ORIGINAL Matrix:
+3        6       5
+9        6       4
+2        3       5
+
+ Matrix Elemnts after Interchanging Diagonals are:
+5        6       3
+9        6       4
+5        3       2

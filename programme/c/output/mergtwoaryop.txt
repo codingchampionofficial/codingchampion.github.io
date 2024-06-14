@@ -1,0 +1,17 @@
+
+ Please Enter the First Array Size  :  5
+
+Please Enter the First Array Elements :  3
+6
+5
+9
+5
+
+ Please Enter the Second Array Size  :  3
+
+Please Enter the Second Array Elements  :  3
+6
+2
+
+ a[8] Array Elements After Merging
+ 3        6       5       9       5       3       6       2

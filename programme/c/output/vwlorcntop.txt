@@ -1,0 +1,9 @@
+Please Enter an alphabet: 
+e
+
+ e is a VOWEL.
+
+ Please Enter an alphabet: 
+b
+
+ b is a CONSONANT.

@@ -1,0 +1,12 @@
+.block {padding:0 0 0 0; margin:0 0 0 0;background-color:rgb(31, 152, 168) }
+.navbar a:hover{ color: black; }
+.nav{ position: sticky ; top: 0 ;}
+.navbar     {background-color: rgba(0, 0, 0, 0.726); witdh:100% ;}
+.LPIMG      {width: 100%;}
+.navbar a   {text-decoration: none;color: white;padding:10px; font-size:30px}
+.wel        { text-align: center;}
+.wel h1     { margin:0    }
+.container  {  display:flex ; justify-content:space-evenly;  flex-direction: row; margin: 15;flex-wrap: wrap; align-items: center ; text-decoration: none;}
+.container h2:hover,.container a:hover{ color: black; }
+#DSAC,#c,#cpp,#py,#java,#jvsc,#rby,#hlcs,#ktln,#php{ background-color:rgba(0, 0, 0, 0.726); width: 35%; height: 25%; ; border: 1px solid black; text-align: center;border-radius: 45px; }
+#DSAC.container a,#c.container a,#cpp.container a, #java.container a ,#py.container a,#jv.container a,#jvsc.container a,#rby.container a,#hlcs.container a,#php.container a,#swf.container a,#ktln.container a{ text-decoration: none; color: white;}

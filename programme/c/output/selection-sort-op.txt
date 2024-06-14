@@ -1,0 +1,10 @@
+ Please Enter the total Number of Elements  :  6
+
+ Please Enter the Array Elements  :  2
+9
+5
+6
+3
+1
+
+ Selection Sort Result :  1      2       3       5       6      9

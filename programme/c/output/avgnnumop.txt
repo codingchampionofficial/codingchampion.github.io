@@ -1,0 +1,13 @@
+please enter how many number you want ?
+6
+
+Please Enter the elements one by one
+3
+3
+6
+9
+5
+2
+
+Sum of the 6 Numbers = 28
+Average of the 6 Numbers = 4.00

@@ -1,0 +1,9 @@
+Please Enter the Array size = 6
+Enter the Array 6 elements : 3
+6
+2
+1
+5
+9
+Please Enter the Array Item to Know = 3
+3 Occurred 1 Times.

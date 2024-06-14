@@ -1,0 +1,16 @@
+ Please Enter the Size of an Array : 10
+
+Please Enter the Array Elements
+2
+6
+3 
+9
+5
+2
+4
+8
+7
+9
+
+ The Sum of Even Numbers in this Array = 22
+ The Sum of Odd Numbers in this Array = 33

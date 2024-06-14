@@ -1,0 +1,58 @@
+ Please Enter Number of rows and columns :  3
+3
+
+ Please Enter the First Matrix Elements
+3
+2
+6
+8
+9
+5
+6
+2
+4
+
+ Please Enter the Second Matrix Elements
+3 
+2
+6
+8
+9
+5
+6
+2
+4
+
+ Matrix a is Equal to Matrix b 
+
+
+
+------------------------------------------------------------------------------------
+
+
+ Please Enter Number of rows and columns :  3
+3
+
+ Please Enter the First Matrix Elements
+3
+6
+5
+2
+4
+1
+9
+7
+6
+
+ Please Enter the Second Matrix Elements
+3
+6
+6
+2
+4
+1
+9
+7
+6
+
+ Matrix a is Not Equal to Matrix b

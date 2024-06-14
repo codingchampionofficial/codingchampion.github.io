@@ -1,0 +1,10 @@
+ Please Enter Length of any side
+3
+
+ Area of Equilateral Triangle = 3.90
+
+ Perimeter of Equilateral Triangle = 9.00
+
+ Semi Perimeter of Equilateral Triangle = 4.50
+
+ Altitude of Equilateral Triangle = 2.60

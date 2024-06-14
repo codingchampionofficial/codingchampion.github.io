@@ -1,0 +1,11 @@
+
+Please Enter Length, Width and Height of a Cuboid
+3
+2
+5
+
+ The Surface Area of a Cuboid = 62.00
+
+ The Volume of a Cuboid = 30.00
+
+ The Lateral Surface Area of a Cuboid = 50.00

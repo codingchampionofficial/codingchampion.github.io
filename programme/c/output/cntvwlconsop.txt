@@ -1,0 +1,5 @@
+
+ Please Enter any String :  LAZYEAZY 
+
+ Number of Vowels in this String = 3
+ Number of Consonants in this String = 5

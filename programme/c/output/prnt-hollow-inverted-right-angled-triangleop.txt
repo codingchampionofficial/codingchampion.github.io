@@ -1,0 +1,19 @@
+Enter Hollow Inverted Right Triangle Rows =  15
+Hollow Inverted Right Triangle Star Pattern
+
+
+***************
+*            *
+*           *
+*          *
+*         *
+*        *
+*       *
+*      *
+*     *
+*    *
+*   *
+*  *
+* *
+**
+*

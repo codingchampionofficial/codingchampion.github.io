@@ -1,0 +1,12 @@
+import matplotlib.pyplot as p
+lst=["sugar","salt","rice","cheese","oil"]
+print(lst)
+print(len(lst))
+lst.append("milk")
+print(lst)
+lst.remove("sugar")
+print(lst)
+Grocery_list=["sugar","salt","rice","wheat","grains"]
+quantity=[8,2,10,20,15]
+p.bar(Grocery_list,quantity)
+p.show()

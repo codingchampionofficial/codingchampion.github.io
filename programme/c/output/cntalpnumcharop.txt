@@ -1,0 +1,5 @@
+ Please Enter any String  :  @lazy2eazy 
+
+ Number of Alphabets in this String = 8
+ Number of Digits in this String = 1
+ Number of Special Characters in this String = 1

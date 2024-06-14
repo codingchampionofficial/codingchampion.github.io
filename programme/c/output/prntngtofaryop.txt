@@ -1,0 +1,11 @@
+
+ Please Enter the Size of an Array :  6
+
+ Please Enter the Array Elements  :  3
+-2
+6
+-3
+2
+6
+
+ List of Negative Numbers in this Array  :  -2  -3

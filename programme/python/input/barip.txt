@@ -1,0 +1,7 @@
+import matplotlib.pyplot as p
+name=['Maths','Physics','Chemistry','Biology','English']
+value=[95,85,90,50,87]
+p.bar(name,value)
+p.xlabel('Suubject')
+p.ylabel('Marks')
+p.show()

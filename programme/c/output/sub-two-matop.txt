@@ -1,0 +1,39 @@
+ Please Enter Number of rows and columns  :  3
+3
+
+ Please Enter the First Matrix Elements
+5
+6
+4
+
+8
+2
+5
+3
+6
+1
+Enterd Matrix
+5        6       4
+8        2       5
+3        6       1
+
+ Please Enter the Second Matrix Elements
+4
+5
+9
+8
+6
+
+2
+1
+5
+4
+Enterd Matrix
+5        6       4
+8        2       5
+3        6       1
+
+ After Subtracting Matrix a from Matrix b = a - b
+1        1       -5
+0        -4      3
+2        1       -3

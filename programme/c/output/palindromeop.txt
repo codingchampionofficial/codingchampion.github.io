@@ -1,0 +1,10 @@
+ Please Enter any String :  MADAM
+
+ MADAM is a Palindrome String
+
+
+
+
+  Please Enter any String :  lazyeazy
+
+ lazyeazy is Not a Palindrome String

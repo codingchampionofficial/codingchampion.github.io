@@ -1,0 +1,3 @@
+Please enter Any String or Message = hello
+
+The string that you entered = hello 

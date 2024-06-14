@@ -1,0 +1,3 @@
+ Enter first integer values  3
+ Enter second integer values  2
+ average of the two integer values is 2.500000

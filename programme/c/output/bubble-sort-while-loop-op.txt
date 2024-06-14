@@ -1,0 +1,17 @@
+
+ Please Enter the total Number of Elements  :  10
+
+ Please Enter the Array Elements  :  
+2
+6
+3
+4
+1
+5
+9
+7
+3
+5
+
+ List in Ascending Order :  1    2       3       3       4 
+                            5        5       6       7       9 

@@ -1,0 +1,21 @@
+
+ Please Enter Three Sides of a Triangle : 3
+3
+3
+
+ This is an Equilateral Triangle
+
+
+  Please Enter Three Sides of a Triangle : 3
+2
+2
+
+ This is an Isosceles Triangle
+
+
+ 
+ Please Enter Three Sides of a Triangle : 3
+2
+5
+
+ This is a Scalene Triangle

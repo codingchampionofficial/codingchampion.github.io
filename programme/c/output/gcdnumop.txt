@@ -1,0 +1,4 @@
+Please Enter first integer Values
+2
+Please Enter second integer Values
+GCD of 2 and 8 is = 2

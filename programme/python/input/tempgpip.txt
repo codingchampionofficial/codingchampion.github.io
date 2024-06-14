@@ -1,0 +1,14 @@
+import matplotlib.pyplot as p
+day=[1,2,3,4,5,6,7]
+temp1=[35,40,26,32,38,49,28]
+temp2=[28,40,36,23,35,29]
+temp3=[38,25,15,23,38,25,30]
+
+p.plot(day,temp1,color='red',marker="o")
+p.plot(day,temp2,color='black',marker="o")
+p.plot(day,temp3,color='blue',marker="o")
+
+p.title("weekly temperature graph")
+p.xlabel("days")
+p.ylabel("temperature")
+p.show()

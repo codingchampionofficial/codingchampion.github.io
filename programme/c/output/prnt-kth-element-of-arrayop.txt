@@ -1,0 +1,14 @@
+Please Enter the Array size = 10
+Enter the Array 10 elements : 
+6
+3
+5
+4
+6
+2
+5
+9
+3
+4
+Enter Kth Position Array Item to Check = 5
+A[4] Element in this Array = 6 

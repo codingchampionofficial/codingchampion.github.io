@@ -1,0 +1,24 @@
+
+ Please Enter the Size of the Array
+5
+
+Please Enter the First Array Elements
+3
+2
+6
+5
+3
+
+ Please Enter the Second Array Elements
+2
+9
+6
+5
+1
+
+ Add     Sub     Multi   Div     Mod
+5        1       6       1.00    1
+11       -7      18      0.00    2
+12       0       36      1.00    0
+10       0       25      1.00    0
+4        2       3       3.00    0

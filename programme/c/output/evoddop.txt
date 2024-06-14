@@ -1,0 +1,6 @@
+Enter any interger value : 2
+2 is EVEN NUMBER
+
+
+Enter any interger value : 3
+3 is ODD NUMBER

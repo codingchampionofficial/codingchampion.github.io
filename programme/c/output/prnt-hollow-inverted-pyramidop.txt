@@ -1,0 +1,12 @@
+Enter Hollow Inverted Star Pyramid Rows =  10
+Hollow Inverted Star Pyramid Pattern
+*******************
+ *               *
+  *             *
+   *           *
+    *         *
+     *       *
+      *     *
+       *   *
+        * *
+         *

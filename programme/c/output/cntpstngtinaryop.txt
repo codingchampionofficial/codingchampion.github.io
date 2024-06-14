@@ -1,0 +1,12 @@
+
+ Please Enter the Size of an Array :  5
+
+Please Enter the Array Elements
+3
+-2
+6
+5
+-1
+
+ Total Number of Positive Numbers in this Array = 3
+ Total Number of Negative Numbers in this Array = 2

@@ -1,0 +1,3 @@
+ Please Enter any String 
+LAZYEAZY
+Length = 8

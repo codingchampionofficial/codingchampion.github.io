@@ -1,0 +1,14 @@
+import matplotlib.pyplot as p
+day=[1,2,3,4,5,6,7]
+wk1=[30,34,35,37,38,39,36]
+wk2=[40,41,45,43,42,41,39]
+wk3=[39,41,40,41,42,43,41]
+wk4=[30,32,28,29,30,28,27]
+p.plot(day,wk1,color="blue",marker="o")
+p.plot(day,wk2,color="green",marker="o")
+p.plot(day,wk3,color="red",marker="o")
+p.plot(day,wk4,color="orange",marker="o")
+
+p.xlabel("days")
+p.ylabel("temperature")
+p.show()

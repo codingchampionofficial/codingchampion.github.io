@@ -1,0 +1,14 @@
+
+Please Enter the size of an array
+6
+
+Please Enter 6 elements of an array:
+3
+2
+6
+9
+8
+7
+
+Largest element in an Array = 9
+Index position of the Largest element = 3

@@ -1,0 +1,30 @@
+ Please Enter the size of an array :  5
+
+ Please Enter 5 elements of an array: 
+3
+6
+2
+5
+3
+
+ Please Enter the Search Element  :  2
+
+ We found the Search Element 2 at Position 3
+
+------------------------------------------------------------------------------------
+
+
+  Please Enter the size of an array :  5
+
+ Please Enter 5 elements of an array: 
+3
+6
+2
+5
+3
+
+ Please Enter the Search Element  :  1
+
+ Sorry!! We haven't found the the Search Element 1 
+
+ ------------------------------------------------------------------------------------

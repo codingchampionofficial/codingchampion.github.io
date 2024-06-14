@@ -1,0 +1,9 @@
+
+ Please Enter the radius and height of a cylinder
+3
+5
+
+ Surface Area of a cylinder = 150.80
+ Volume of a Cylinder = 141.37
+ Lateral Surface Area of a cylinder = 94.25
+ Top OR Bottom Surface Area of a cylinder = 28.27

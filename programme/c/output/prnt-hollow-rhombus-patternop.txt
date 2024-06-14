@@ -1,0 +1,12 @@
+Enter Hollow Rhombus Star Pattern Rows =  10
+Hollow Rhombus Star Pattern
+         **********
+        *        *
+       *        *
+      *        *
+     *        *
+    *        *
+   *        *
+  *        *
+ *        *
+**********

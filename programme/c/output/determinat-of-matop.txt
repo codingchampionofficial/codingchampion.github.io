@@ -1,0 +1,7 @@
+ Please Enter the 2 * 2 Matrix Elements 
+ 3
+6
+5
+9
+
+ The Determinant of 2 * 2 Matrix = -3

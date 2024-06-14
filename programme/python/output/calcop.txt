@@ -1,0 +1,6 @@
+enter first number 2
+enter second number 2
+sum of number is  4
+sub of number is  0
+multiplication of number is  4
+division of number is  1.0

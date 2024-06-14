@@ -1,0 +1,11 @@
+
+ Please Enter the Size of an Array :  6
+
+ Please Enter the Array Elements  :  3
+6
+-3
+-3
+6
+9
+
+ List of Positive Numbers in this Array  :  3  6  6  9

@@ -1,0 +1,5 @@
+ Please Enter the First String :  lazy
+
+ Please Enter the Second :  eazy
+
+ After the Concatenate = lazyeazy

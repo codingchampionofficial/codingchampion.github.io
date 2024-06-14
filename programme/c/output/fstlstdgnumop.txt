@@ -1,0 +1,4 @@
+ Please Enter any Number that you wish  : 123653
+ 
+ The First Digit of a Given Number 123653 =  1      
+ The Last Digit of a Given Number 123653 =  3 

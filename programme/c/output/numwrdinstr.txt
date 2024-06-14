@@ -1,0 +1,3 @@
+ Please Enter any String :  lazy eazy programmers
+
+ The Total Number of Words in this String lazy eazy programmers  = 3

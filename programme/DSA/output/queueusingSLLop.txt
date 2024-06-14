@@ -1,0 +1,23 @@
+1.Insert        2.Delete        3.Exit
+Enter Choice=1
+Enter data=3
+1.Insert        2.Delete        3.Exit
+Enter Choice=1
+Enter data=5
+1.Insert        2.Delete        3.Exit
+Enter Choice=1
+Enter data=4
+1.Insert        2.Delete        3.Exit
+Enter Choice=2
+3
+1.Insert       2.Delete        3.Exit
+Enter Choice=2
+5
+1.Insert       2.Delete        3.Exit
+Enter Choice=2
+4
+1.Insert       2.Delete        3.Exit
+Enter Choice=2
+Queue is empty.
+1.Insert 2.Delete        3.Exit
+Enter Choice=3

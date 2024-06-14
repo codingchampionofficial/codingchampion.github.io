@@ -1,0 +1,4 @@
+ Please Enter any String :  lazy eazy
+
+ String that we coped into CopyStr = lazy eazy
+ Total Number of Characters that we copied = 9

@@ -1,0 +1,10 @@
+Enter the number of elements 6
+Enter the elements one by one 
+2
+4
+6
+3
+8
+1
+Enter the element to be searched 8
+Element is present in the array at position 5

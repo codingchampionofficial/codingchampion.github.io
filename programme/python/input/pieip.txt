@@ -1,0 +1,5 @@
+import matplotlib.pyplot as p
+name=['Viral Fever','Covid Positive','Serious','Healthy']
+value=[20,9,16,55]
+p.pie(value,labels=name)
+p.show()

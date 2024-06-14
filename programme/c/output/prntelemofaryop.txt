@@ -1,0 +1,12 @@
+
+Please Enter Number of elements in an array  :  5
+
+Please Enter 5 elements of an Array
+3
+6
+2
+5
+3
+
+ Elemenst in this Array are :
+3       6       2       5       3

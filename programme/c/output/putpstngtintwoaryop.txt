@@ -1,0 +1,15 @@
+
+ Please Enter the Size of an Array :  6
+
+Please Enter the Array Elements  :   3
+-2
+3
+-6
+5
+1
+
+ Total Number of Positive Numbers in this Array = 4
+ Array Elements in Positive Array  :  3          3       5       1
+
+ Total Number of Negative Numbers in this Array = 2
+ Array Elements in Negative Array  : -2          -6

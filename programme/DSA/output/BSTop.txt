@@ -1,0 +1,84 @@
+ 1.Create 
+ 2.Inorder 
+ 3.Preorder 
+ 4.Postorder 
+ 5.Search 
+ 6.Exit 
+enter choice=1
+
+ How many elements?5
+
+ Enter the no=6
+
+ Enter the no=2
+
+ Enter the no=7
+
+ Enter the no=9
+
+ Enter the no=1
+
+ 1.Create
+ 2.Inorder
+ 3.Preorder
+ 4.Postorder
+ 5.Search
+ 6.Exit
+enter choice=2
+1
+2
+6
+7
+9
+
+ 1.Create
+ 2.Inorder
+ 3.Preorder
+ 4.Postorder
+ 5.Search
+ 6.Exit
+enter choice=3
+6
+2
+1
+7
+9
+
+ 1.Create
+ 2.Inorder
+ 3.Preorder
+ 4.Postorder
+ 5.Search
+ 6.Exit
+enter choice=4
+1
+2
+9
+7
+6
+
+ 1.Create
+ 2.Inorder
+ 3.Preorder
+ 4.Postorder
+ 5.Search
+ 6.Exit
+enter choice=5
+Enter no. to be searched=1
+Number found
+ 1.Create
+ 2.Inorder
+ 3.Preorder
+ 4.Postorder
+ 5.Search
+ 6.Exit
+enter choice=5
+Enter no. to be searched=0
+NOT Found
+ 1.Create
+ 2.Inorder
+ 3.Preorder
+ 4.Postorder
+ 5.Search
+ 6.Exit
+enter choice=6

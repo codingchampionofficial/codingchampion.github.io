@@ -1,0 +1,9 @@
+.block {padding:0 0 0 0; margin:0 0 0 0;background-color:rgb(173, 160, 42) }
+.nav{position: sticky; top: 0 ;}
+.navbar     {background-color: rgb(58, 54, 17); witdh:100% ,position: sticky; top: 0 ; }
+.LPIMG      {width: 100%   }
+.navbar a   {text-decoration: none;color: white;padding:10px; font-size:30px}
+.wel        { margin:0 }
+.wel p      { font-size: 25px; }
+.header     {padding:0 0 0 0; margin: 0 0 0 0   ;font color="white"}
+.navbar a:hover{ color: black; }

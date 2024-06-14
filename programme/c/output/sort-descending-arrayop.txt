@@ -1,0 +1,13 @@
+
+Please Enter the Number of elements in an array  :  6
+
+Please Enter 6 elements of an Array 
+6
+5
+9
+4
+3
+8
+
+ **** Array of Elemenst in Descending Order are : ****
+9       8       6       5       4       3

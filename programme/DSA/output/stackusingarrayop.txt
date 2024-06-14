@@ -1,0 +1,40 @@
+Select operation  1)push  2)pop  3)diplay  0)exit 1
+
+how many number you want to add? 4
+Enter number :2
+Enter number :8
+Enter number :6
+Enter number :1
+
+Select operation  1)push  2)pop  3)diplay  0)exit 3
+
+2
+8
+6
+1
+Select operation  1)push  2)pop  3)diplay  0)exit 2
+1 is removed
+Select operation  1)push  2)pop  3)diplay  0)exit 3
+
+2
+8
+6
+Select operation  1)push  2)pop  3)diplay  0)exit 2
+6 is removed
+Select operation  1)push  2)pop  3)diplay  0)exit 3
+
+2
+8
+Select operation  1)push  2)pop  3)diplay  0)exit 1
+
+how many number you want to add? 2
+Enter number :8
+Enter number :4
+
+Select operation  1)push  2)pop  3)diplay  0)exit 3
+
+2
+8
+8
+4
+Select operation  1)push  2)pop  3)diplay  0)exit 0

@@ -1,0 +1,4 @@
+ 
+ Please Enter any integer Value : 2
+
+ square of a given number 2 is  =  4

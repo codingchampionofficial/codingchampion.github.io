@@ -1,0 +1,8 @@
+a=int(input("enter body temperature"))
+#b=int(imput("enter oxygen level "))
+if 90<a<96 :
+    print("you might have fever")
+elif a>96 :
+    print("you have fever")
+else :
+    print("healthy ")

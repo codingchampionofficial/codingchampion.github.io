@@ -1,0 +1,3 @@
+Enter the Semicircle Radius = 3
+The Perimeter of a Semicircle = 9.42
+The Area of a Semicircle = 14.13

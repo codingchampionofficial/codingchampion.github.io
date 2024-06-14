@@ -1,0 +1,4 @@
+
+Please Enter any Integer Value
+25
+Sum of Natural Numbers = 325

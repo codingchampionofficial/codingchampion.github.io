@@ -1,0 +1,7 @@
+
+ Please Enter the Width and Height of the rectangle
+3
+3
+
+ Area of a rectangle is: 9.00
+ Perimeter of a rectangle is: 12.00

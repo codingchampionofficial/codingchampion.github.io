@@ -1,0 +1,13 @@
+Please Enter the Number of Rows:  10
+Printing Inverted Pyramid Star Pattern 
+
+ *******************
+  *****************
+   ***************
+    *************
+     ***********
+      *********
+       *******
+        *****
+         ***
+          *

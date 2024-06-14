@@ -1,0 +1,11 @@
+Please Enter the Array size = 6
+Enter the Array Elements : 3
+2
+9
+5
+6
+2
+
+The Sum of Array Elements     = 27
+
+The Average of Array Elements = 4.50

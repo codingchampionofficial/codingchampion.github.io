@@ -1,0 +1,9 @@
+ Please Enter the total Number of Elements  :  5
+
+ Please Enter the Array Elements  :  3
+9
+5
+4
+6
+
+ Insertion Sort Result :  3      4       5       6       9

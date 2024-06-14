@@ -1,0 +1,9 @@
+    printf("Enterd Matrix\n");
+ 		for(rows = 0; rows < j; rows++)
+  		{
+   			for(columns = 0; columns < i; columns++)
+    		{
+      			printf("%d \t ", a[rows][columns]);
+    		}
+    		printf("\n");
+  		}

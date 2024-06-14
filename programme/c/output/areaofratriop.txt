@@ -1,0 +1,10 @@
+
+ Please Enter height and width of the right angled triangle
+3
+2
+
+ Area of right angled triangle is: 3.00
+
+ Other side of right angled triangle is: 3.61
+
+ Perimeter of right angled triangle is: 8.61

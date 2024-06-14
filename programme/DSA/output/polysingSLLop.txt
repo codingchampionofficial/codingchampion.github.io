@@ -1,0 +1,13 @@
+Enter the 1st polynomial
+ enter number of terms in polynomial=3
+
+Enter coefficient and power of 1 term=3
+0
+
+Enter coefficient and power of 2 term=6
+1
+
+Enter coefficient and power of 3 term=4
+2
+Display the 1st polynomial
+3x^0+6x^1+4x^2+

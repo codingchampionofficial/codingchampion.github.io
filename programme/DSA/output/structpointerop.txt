@@ -1,0 +1,5 @@
+Enter age: 15
+Enter weight: 50
+Displaying:
+Age: 15
+weight: 50.000000

@@ -1,0 +1,13 @@
+Enter Normal Matrix Rows and Columns =  2
+2
+Please Enter the Normal Matrix Items =  
+3
+6
+5
+4
+Enterd Matrix
+3        6
+5        4
+
+The Square Of the Matrix = 86
+The Normal Of the Matrix = 9.27

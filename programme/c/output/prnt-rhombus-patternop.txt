@@ -1,0 +1,8 @@
+Enter Rhombus Star Pattern Rows =  6
+Rhombus Star Pattern
+     ******
+    ******
+   ******
+  ******
+ ******
+******

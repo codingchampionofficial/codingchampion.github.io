@@ -1,0 +1,34 @@
+ A-addition   B-substraction   C-multiplication   D-division
+please select operation[A,B,C,D] A
+enter first number 2 
+enter second number 2
+sum of 2 and 2 is 4
+
+
+ A-addition   B-substraction   C-multiplication   D-division
+please select operation[A,B,C,D]  B
+enter first number 2
+enter second number 2
+substraction of 2 and 2 is 0
+
+
+ A-addition   B-substraction   C-multiplication   D-division
+please select operation[A,B,C,D]  C
+enter first number 3
+enter second number 2
+multiplication  of 3 and 2 is 6
+
+
+
+ A-addition   B-substraction   C-multiplication   D-division
+please select operation[A,B,C,D]  D
+enter first number 5
+enter second number 2
+divisio of 5 to 2 is 2.5
+
+
+ A-addition   B-substraction   C-multiplication   D-division
+please select operation[A,B,C,D]  E
+enter first number 2
+enter second number 2
+INVALID OPERATOR PLEASE CHOOSE (A,B,C,D)

@@ -1,0 +1,17 @@
+Enter Hollow Right Triangle Rows =  15
+Hollow Right Triangle Star Pattern
+*
+**
+* *
+*  *
+*   *
+*    *
+*     *
+*      *
+*       *
+*        *
+*         *
+*          *
+*           *
+*            *
+***************

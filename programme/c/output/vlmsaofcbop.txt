@@ -1,0 +1,7 @@
+
+ Please Enter Length of any side of a Cube
+3
+
+ Surface Area of Cube = 54.00
+ Volume of cube = 27.00
+ Lateral Surface Area of Cube = 36.00

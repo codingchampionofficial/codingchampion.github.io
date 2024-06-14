@@ -1,0 +1,20 @@
+Enter Plus Pattern Rows =  10
+Plus Star Pattern
+                  *
+                  *
+                  *
+                  *
+                  *
+                  *
+                  *
+                  *
+                  *
+* * * * * * * * * * * * * * * * * * *
+                  *
+                  *
+                  *
+                  *
+                  *
+                  *
+                  *
+                  *

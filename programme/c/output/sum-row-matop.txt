@@ -1,0 +1,19 @@
+Please Enter Number of rows and columns  :  3
+3
+Please Enter the Matrix Row and Column Elements 
+6
+5
+9
+2
+3
+5
+4
+1
+7
+Enterd Matrix
+6        5       9       
+2        3       5       
+4        1       7       
+The Sum of Elements of a Rows in a Matrix =  20 
+The Sum of Elements of a Rows in a Matrix =  10 
+The Sum of Elements of a Rows in a Matrix =  12 

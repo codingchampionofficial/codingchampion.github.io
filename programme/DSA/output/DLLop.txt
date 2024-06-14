@@ -1,0 +1,82 @@
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice1
+Enter no of nodes=3
+Enter data=5
+Enter data=2
+Enter data=4
+
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice2
+DLL in forward direction
+5->2->4->NULL
+
+DLL in reverese direction
+4<-2<-5<-NULL
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice3
+Enter data and Position7
+0
+
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice2
+DLL in forward direction
+7->5->2->4->NULL
+
+DLL in reverese direction
+4<-2<-5<-7<-NULL
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice4
+Enter node no0
+
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice2
+DLL in forward direction
+5->2->4->NULL
+
+DLL in reverese direction
+4<-2<-5<-NULL
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice5
+Enter data to be searched2
+found at 2
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice0 
+
+1.create
+2.display
+3.insert
+4.Delete.
+5.Search
+6.ExitEnter your choice

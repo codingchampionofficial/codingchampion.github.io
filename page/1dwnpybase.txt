@@ -1,0 +1,89 @@
+<html lang="en" class="block">
+<head>
+    <title>Coding Junction</title>
+    <link rel = "icon" type = "image/png" href = "../img/icon.png">
+</head>
+
+<style>
+    .block {padding:0 0 0 0; margin:0 0 0 0;background-color:rgb(166, 43, 170) }
+    .navbar     {background-color: rgba(0, 0, 0, 0.726); witdh:100% , } 
+    .LPIMG      {width: 100% }
+    .navbar a   {text-decoration: none;color: white;padding:10px; font-size:30px}
+    .wel        { text-align: center;}
+    .wel h1     { margin:0    }
+    .header     {padding:0 0 0 0; margin: 0 0 0 0   ; font color="white"}
+    .PY{text-align: center; }
+
+
+
+    #text.programme{ width:100%;}
+    .profile{display:flex; flex-direction:column ; align-items: center; height: 100px  } 
+    .profile img{border-radius: 50%; width:50;margin:0px 0px 0px 0px ; padding:0px 0px 0px 0px;}
+    .profile_link{display:flex; justify-content:center; padding : 8px 13px ; border-radius:30px ; margin:1px 5px; }
+    #insta.profile_link,#ytb.profile_link,#twt.profile_link{ background-color:rgba(0, 0, 0, 0.726) ; text-decoration:none;font-size: 8px;}
+    #prohead.profile,.name{font-size : 0.7em ; font-weight : 900 ; letter-spacing : 4px ; word-spacing : 10px ; margin : 200px 0px 0px 0px  } 
+    #prohead.profile h4{margin:0 0 0 0; MARGIN: 0 0 0 0}
+    .profile a {text-decoration:none;color:white }
+    .flw{margin: 0 0 0 0; padding:0 0 0 0 ; font-size:10px }
+    .name {margin: 0 0 0 0; padding:0 0 0 0 }
+
+ </style>
+
+<header>
+    <img class="LPIMG" src="/img/LPIMGPURPLE.png" width="500">
+
+    <nav class="navbar"  role="navigation">
+        <a href="index.html">HOME</a>|
+        <a href="c.html">C</a>|
+        <a href="sorry.html">C++</a>|
+        <a href="py.html">PYTHON</a>|
+        <a href="sorry.html">HTML</a>|
+        <a href="sorry.html">JAVASCRIPT</a>|
+        <a href="sorry.html">KOTLIN</a>|
+        <a href="sorry.html">SWIFT</a>|
+        <a href="sorry.html">RUBY</a>|
+        </nav>    
+    
+
+</header>
+
+<body>
+
+    <div class="wel">
+        <h1> HELLO <br> Welcome to LAZY-EASY PRORGRAMMERS <br> Here you will get all type of programming language <br>Code text + Extesion file + Output file</h1>            
+    </div>
+
+    <h1 class="PY" >PYTHON PRORGRAMMES</h1>
+
+<div class="programme">
+
+    <div class="programme" id="text"><font size="150px" color="white"> PRORGRAMME CODE </font> </div>
+    </div class="programme" id="code"> 
+        <iframe src="/programme/python/input" width="75%" height="400" ;></iframe>
+    </div>
+    <div class="PRORGRAMME" id="oputtext" ><font size="150px" color="white"> OUTPUT </font></div>  
+      <div class="programme" id="op">
+        <iframe src="/programme/python/output" width="75%" height="400" ;></iframe>
+    </div>
+</div>
+
+
+
+<div class="profile">
+    <div class="profile" id="prohead" >
+    <h4> FOUNDER</h4>
+    </div>
+    <div class="profile" id="propho" >
+    <img src="/img/sufi.jpg" >
+
+<h4 class="name">SUFIYAN MIRZA </h4>
+    <p class="flw" > follow us on :</p>
+<div class="profile_link"> 
+    <div class="profile_link" id="insta">  <a href="#"> INSTAGRAM</a></div>
+    <div class="profile_link" id="ytb">  <a href="#"> YOUTUBE</a></div> 
+    <div class="profile_link" id="twt">  <a href="#"> TWITTER</a></div>
+</div>
+</div>
+</body>
+
+</html>

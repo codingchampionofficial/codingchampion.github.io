@@ -1,0 +1,5 @@
+Please Enter fist integer Values 
+25
+Please Enter second integer Values 
+30
+LCM of 25 and 30 = 150

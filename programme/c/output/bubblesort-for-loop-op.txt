@@ -1,0 +1,11 @@
+ Please Enter the total Number of Elements  :  6
+
+ Please Enter the Array Elements  :
+3
+5
+6
+4
+1
+9
+
+ List Sorted in Ascending Order :  1     3       4       5 6        9 

@@ -1,0 +1,11 @@
+
+Please Enter the size of an array: 6
+3
+9
+5
+6
+2
+4
+
+original array is: 3    9       5       6       2     4 
+Result of an Reverse array is: 4        2       6     5        9       3 

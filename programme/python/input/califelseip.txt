@@ -1,0 +1,15 @@
+print("")
+print(" A-addition   B-substraction   C-multiplication   D-division  ")
+choice=input("please select operation[A,B,C,D]  ")
+x=int(input("enter first number "))
+y=int(input("enter second number "))
+if choice=="A":
+	print("sum of",x,"and",y,"is ",x+y)
+elif choice=="B" :
+	print("substraction of",x,"and",y,"is",x-y)
+elif choice=="C" :
+	print("multiplication  of",x,"and",y,"is",x*y)
+elif choice=="D" :
+	print("divisio of",x,"to",y,"is",x/y)
+else:
+	print("INVALID OPERATOR PLEASE CHOOSE (A,B,C,D)")

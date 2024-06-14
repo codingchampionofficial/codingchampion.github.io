@@ -1,0 +1,11 @@
+Address of c: 0061FF18
+Value of c: 22
+
+Address of pointer pc: 0061FF18
+Content of pointer pc: 22
+
+Address of pointer pc: 0061FF18
+Content of pointer pc: 11
+
+Address of c: 0061FF18
+Value of c: 2

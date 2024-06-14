@@ -1,0 +1,11 @@
+ Please Enter any String :  LAZYEZAYPROGRAMMER
+Character 'A' Occurs 3 Times 
+Character 'E' Occurs 2 Times 
+Character 'G' Occurs 1 Times 
+Character 'L' Occurs 1 Times 
+Character 'M' Occurs 2 Times 
+Character 'O' Occurs 1 Times 
+Character 'P' Occurs 1 Times 
+Character 'R' Occurs 3 Times 
+Character 'Y' Occurs 2 Times 
+Character 'Z' Occurs 2 Times

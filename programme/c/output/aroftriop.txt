@@ -1,0 +1,15 @@
+
+Please Enter first side of triangle
+3
+
+Please Enter second side of triangle
+2
+
+Please Enter third side of triangle
+3
+
+ Perimeter of Traiangle = 8.00
+
+ Semi Perimeter of Traiangle = 4.00
+
+ Area of triangle = 2.83

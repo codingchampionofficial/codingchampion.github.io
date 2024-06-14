@@ -1,0 +1,9 @@
+ Please Enter any String  :  LAZYeazy
+ The ASCII Value of Character L  = 76     
+ The ASCII Value of Character A  = 65     
+ The ASCII Value of Character Z  = 90     
+ The ASCII Value of Character Y  = 89     
+ The ASCII Value of Character e  = 101    
+ The ASCII Value of Character a  = 97     
+ The ASCII Value of Character z  = 122    
+ The ASCII Value of Character y  = 121 

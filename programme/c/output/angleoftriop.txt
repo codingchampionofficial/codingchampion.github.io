@@ -1,0 +1,6 @@
+
+ Please Enter two angles of a triangle
+35
+70
+
+ Third Angle of a Triangle = 75.00

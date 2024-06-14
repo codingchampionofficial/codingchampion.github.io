@@ -1,0 +1,6 @@
+
+ Please Enter the Base of a Triangle  :  5
+
+ Please Enter the Height of a Triangle  :  2
+
+ The Area of a Triangle using Base and Height = 5.00

@@ -1,0 +1,24 @@
+
+1.Push  2.Pop   0.Exit
+Enter choice=1
+Enter Data=3
+
+1.Push  2.Pop   0.Exit
+Enter choice=1
+Enter Data=2
+
+1.Push  2.Pop   0.Exit
+Enter choice=2
+2
+1.Push  2.Pop   0.Exit
+Enter choice=2
+3
+1.Push  2.Pop   0.Exit
+Enter choice=2
+Stack is Empty
+1.Push  2.Pop   0.Exit
+Enter choice=1
+Enter Data=5
+
+1.Push  2.Pop   0.Exit
+Enter choice=0

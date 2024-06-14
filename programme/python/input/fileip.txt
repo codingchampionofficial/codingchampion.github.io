@@ -1,0 +1,11 @@
+f=open("new.txt","w")
+f.write("write mode\n")
+f=open("new.txt","a")
+f.write("this line will be append line")
+f=open("new.txt","r")
+print(f.read())
+f=open("new.txt","r")
+print(f.read(3))
+print("name of file is ",f.name)
+print("mode of file is ",f.mode)
+f.close

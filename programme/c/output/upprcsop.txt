@@ -1,0 +1,15 @@
+ Please Enter any alphabet
+  a
+
+ Uppercase of Entered character is A
+
+ 
+ Please Enter any alphabet
+ A
+
+ Uppercase of Entered character is A
+ 
+ Please Enter any alphabet
+ 1
+
+ Please Enter Valid Alphabet

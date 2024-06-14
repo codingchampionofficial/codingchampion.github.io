@@ -1,0 +1,3 @@
+Enter the Rhombus First diagonal = 3
+Enter the Rhombus Second diagonal = 5
+The Area of a Rhombus = 7.50

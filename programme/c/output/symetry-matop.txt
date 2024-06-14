@@ -1,0 +1,19 @@
+ Please Enter Number of rows and columns  :  3
+3
+
+ Please Enter the Matrix Elements
+5
+6
+9
+7
+5
+8
+1
+6
+45
+Enterd Matrix
+5        6       9
+7        5       8
+1        6       45
+
+ The Matrix that you entered is Not a Symmetric Matrix 

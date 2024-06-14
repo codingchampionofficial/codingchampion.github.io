@@ -1,0 +1,2 @@
+a=int(input("ENTER ANY INTEGER VALUE "))
+print("you have entered interger ",a)

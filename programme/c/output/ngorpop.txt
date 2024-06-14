@@ -1,0 +1,10 @@
+Enter any number: 3
+3 is Positive
+
+
+Enter any number: -3
+-3 is negative value
+
+
+Enter any number: 0
+you have entered zero

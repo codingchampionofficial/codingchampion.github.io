@@ -1,0 +1,3 @@
+ Please Enter the Number You want to Convert  :  25
+
+ Binary Number of a Given Number =   1  1  0  0  1 

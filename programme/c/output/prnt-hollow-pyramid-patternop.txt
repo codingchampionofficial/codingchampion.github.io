@@ -1,0 +1,12 @@
+Enter Hollow Star Pyramid Rows =  10
+Hollow Star Pyramid Pattern
+         *
+        * *
+       *   *
+      *     *
+     *       *
+    *         *
+   *           *
+  *             *
+ *               *
+*******************

@@ -1,0 +1,6 @@
+ Please Enter any String :  LAZYEAZY
+
+ Please Enter the Character that you want to Search for :  Y   
+
+ 'Y' is Found at Position 4
+ 'Y' is Found at Position 8

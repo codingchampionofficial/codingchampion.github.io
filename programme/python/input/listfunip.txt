@@ -1,0 +1,10 @@
+Gro_lst=["sugar","salt","rice","chese","oil","milk","wheat","pen"]
+print(Gro_lst)
+print(Gro_lst[-1:-4:-1])
+print(Gro_lst[3::1])
+print(Gro_lst[:5:1])
+print(Gro_lst[3:7:1])
+print(Gro_lst[1::2])
+print(Gro_lst[2:7:2])
+print(Gro_lst[::-1])
+print(len(Gro_lst))

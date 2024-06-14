@@ -1,0 +1,14 @@
+    .tbl,.tbl1,.tbl2,.tbl3, .tbl4,.tbl5 {background-color: rgb(0,0,0,0.706)  ; width:100%; overflow-x:auto; margin-top: 30px;  }
+    .tbl a,.tbl1 a, .tbl2 a ,.tbl3 a, .tbl4 a, .tbl5 a{color: white;text-decoration:none;}
+    .td{justify-content:center ; }
+    .tbl a:hover,.tbl1 a:hover, .tbl2 a:hover,.tbl3 a:hover, .tbl4 a:hover, .tbl5 a:hover{color: black;}
+
+    .block {padding:0 0 0 0; margin:0 0 0 0;background-color:rgb(166, 43, 170) }
+.nav{position: sticky; top: 0 ;}
+.navbar     {background-color: rgb(0,0,0,0.756); witdh:100% ,position: sticky; top: 0 ; }
+.LPIMG      {width: 100%   }
+.navbar a   {text-decoration: none;color: white;padding:10px; font-size:30px}
+.wel        { margin:0 }
+.wel p      { font-size: 25px; }
+.header     {padding:0 0 0 0; margin: 0 0 0 0   ;font color="white"}
+.navbar a:hover{ color: black; }

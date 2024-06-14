@@ -1,0 +1,13 @@
+Please Enter Any Side of a Square
+10
+Printing Hallow Square Star Pattern 
+* * * * * * * * * *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+* * * * * * * * * *

@@ -1,0 +1,22 @@
+def add(x,y):
+    return x+y
+def sub(x,y):
+    return x-y
+def mul(x,y):
+    return x*y
+def div(x,y):
+    return x/y
+choice=int(input("Choose operation  1-Addition  2-Substraction  3-division  4-Multipliaction  "))
+if choice in (1,2,3,4):
+    x=int(input("enter first number "))
+    y=int(input("enter second number "))
+    if choice==1:
+        print(add(x,y))
+    elif choice==2:
+        print(sub(x,y))
+    elif choice==3:
+        print(div(x,y))
+    elif choice==4:
+        print(mul(x,y))
+else:
+    print("INVALID INPUT")

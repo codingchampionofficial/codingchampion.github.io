@@ -1,0 +1,12 @@
+Enter Hollow Square with Diagonals Rows =  10
+Hollow Square Star Pattern With Diagonals
+* * * * * * * * * *
+* *             * *
+*   *         *   *
+*     *     *     *
+*       * *       *
+*       * *       *
+*     *     *     *
+*   *         *   *
+* *             * *
+* * * * * * * * * *

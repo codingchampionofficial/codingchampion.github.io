@@ -1,0 +1,8 @@
+Please Enter the Number of Rows:  5
+
+Printing Right Angled Triangle 
+
+*
+* *
+* * *
+* * * *

@@ -1,0 +1,15 @@
+
+ Please Enter any alphabet
+A
+
+ Lowercase of Entered character is a
+
+  Please Enter any alphabet
+a
+
+ Lowercase of Entered character is a
+
+  Please Enter any alphabet
+1
+
+ Please Enter Valid Alphabet

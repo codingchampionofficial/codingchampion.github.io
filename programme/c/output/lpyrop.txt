@@ -1,0 +1,10 @@
+ Please Enter year 
+ 1225
+
+ 1225 is not leap year 
+
+
+  Please Enter year 
+ 1224
+
+ 1224 is a Leap year

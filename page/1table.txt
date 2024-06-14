@@ -1,0 +1,17 @@
+ <div class="tbl">
+    <table  border = "1" bordercolor="white" cellpadding="5" cellspacing="3" width="100%" border-collapse="collapse" >
+
+        <thead class="header">
+            <tr>
+                <th style="width:70%"><h1><font color="white"> C PRORGRAMMES ()</font></h1></th>
+                <th><h1><font color="white">CODE TEXT<br> + <br> OUTPUT</font></h1> </th>
+            </tr> 
+        </thead>
+        <tbody>
+                <tr> 
+                    <td><font color="white" size="5px"> to  </font></td>
+                    <td>  <a href="dwnC"> <img src="/img/download.png" width="25"> DOWNLOAD </a> </td>
+                </tr>
+
+         </table>
+</div>

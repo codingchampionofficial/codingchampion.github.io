@@ -1,0 +1,7 @@
+str1="hi"
+str2="How"
+print("concatinated ",str1+str2)
+rep=str1*5
+print("replication",rep)
+print(str1.upper())
+print(str2.lower())

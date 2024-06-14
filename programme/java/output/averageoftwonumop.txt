@@ -1,0 +1,6 @@
+Enter First Number
+5
+Enter Second Number
+2
+Sum is 7.0
+Average is 3.5

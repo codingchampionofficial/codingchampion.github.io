@@ -1,0 +1,5 @@
+ Please Enter any number to Find Factors 
+100
+
+ Factors of the Given Number are:
+ 1   2   4   5   10   20   25   50   100 

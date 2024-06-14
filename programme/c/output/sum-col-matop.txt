@@ -1,0 +1,9 @@
+Please Enter Number of rows and columns  :  2
+2
+Please Enter the Matrix Row and Column Elements 
+3
+5
+6
+4
+The Sum of Column Elements in a Matrix =  9 
+The Sum of Column Elements in a Matrix =  9

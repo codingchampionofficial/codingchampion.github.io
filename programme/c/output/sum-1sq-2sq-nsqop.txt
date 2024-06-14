@@ -1,0 +1,5 @@
+
+ Please Enter any positive integer
+25
+
+ The Sum of Series for 25 = 5525

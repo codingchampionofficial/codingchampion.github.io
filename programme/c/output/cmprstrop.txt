@@ -1,0 +1,25 @@
+ Please Enter the First String :  lazyeazy
+
+ Please Enter the Second String :  lazyeazy 
+
+ str1 is Equal to str2
+
+
+
+
+
+  Please Enter the First String :  lazy
+
+ Please Enter the Second String :  eazy 
+
+ str2 is Less than str1
+
+
+
+
+
+  Please Enter the First String :  LAZY
+
+ Please Enter the Second String :  lazy
+
+ str1 is Less than str2

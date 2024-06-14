@@ -1,0 +1,23 @@
+ Please Enter the Actrual Product Cost : 100
+
+ Please Enter the Sale Price (or Selling Price) : 120
+
+ Profit Amount = 20.00
+
+
+Please Enter the Actrual Product Cost : 100
+
+ Please Enter the Sale Price (or Selling Price) : 90
+
+ Loss Amount = 10.000000
+
+
+
+
+
+
+ Please Enter the Actrual Product Cost : 100
+
+ Please Enter the Sale Price (or Selling Price) : 100
+
+ No Profit No Loss!

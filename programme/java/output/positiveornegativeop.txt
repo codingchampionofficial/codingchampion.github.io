@@ -1,0 +1,8 @@
+Enter integer : 5
+Positive
+--------------------------
+Enter integer : -2
+Negatiive
+-------------------------
+Enter integer : 0
+Zero

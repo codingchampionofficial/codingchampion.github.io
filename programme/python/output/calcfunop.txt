@@ -1,0 +1,23 @@
+Choose operation  1-Addition  2-Substraction  3-division  4-Multipliaction   1
+enter first number 2
+enter second number 2
+4
+
+Choose operation  1-Addition  2-Substraction  3-division  4-Multipliaction   2
+enter first number 3
+enter second number 2
+1
+
+
+Choose operation  1-Addition  2-Substraction  3-division  4-Multipliaction   3
+enter first number 2
+enter second number 2
+1.0
+
+Choose operation  1-Addition  2-Substraction  3-division  4-Multipliaction   4
+enter first number 2
+enter second number 3
+6
+
+Choose operation  1-Addition  2-Substraction  3-division  4-Multipliaction   5
+INVALID INPUT

@@ -1,0 +1,19 @@
+Please Enter first number
+3
+Please Enter second number
+2
+Please Enter third number
+6
+
+6 is Highest Among both 3 and 2
+
+
+
+Please Enter first number
+3
+Please Enter second number
+3
+Please Enter third number
+3
+
+Either any two values or all the three values are equal

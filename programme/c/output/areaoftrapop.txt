@@ -1,0 +1,9 @@
+
+ Please Enter two bases and height of the trapezium
+3
+3
+3
+
+ Area of a trapezium = 9.00
+
+ Median of a trapezium = 3.00

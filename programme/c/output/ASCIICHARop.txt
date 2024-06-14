@@ -1,0 +1,10 @@
+ Please Enter any character 
+a
+
+ The ASCII value = 97
+
+ 
+ Please Enter any character 
+A
+
+ The ASCII value = 65

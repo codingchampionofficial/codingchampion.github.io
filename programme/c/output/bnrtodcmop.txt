@@ -1,0 +1,3 @@
+Enter the Binary Number = 11001
+The Binary Value  = 11001
+The Decimal Value = 25
