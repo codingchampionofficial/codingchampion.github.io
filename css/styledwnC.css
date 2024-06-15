@@ -1,13 +1,20 @@
-.block {padding:0 0 0 0; margin:0 0 0 0;background-color:rgb(173, 160, 42) }
-#text.programme{ width:100%;}
-.btn{display:flex ; justify-content: space-around; margin: 10px 10px 10px 10px;;}
-#prv.btn , #hm.btn , #nx.btn{ width:20%; height:10%; margin:10px 10px 10px 10px ; font-size:25px ; background-color: rgba(0, 0, 0, 0.726);border:2px solid ; border-radius:20px }
-#prv a , #hm.btn a , #nx a  { text-decoration: none;color: white;}
-.dwn{ width: 50%; height: 25%;}
+.block {padding:0 0 0 0; margin:0 0 0 0;}
+#text.programme{ width:100%;color:#e5ca8b  ;}
+#oputtext.PRORGRAMME{ width:100%;color:#e5ca8b  ;}
+iframe{ width:70%; background-color:#e5ca8bd5;  ;}
+font{color: #131f2b; }
 
-.block {padding:0 0 0 0; margin:0 0 0 0;background-color:rgb(173, 160, 42) }
+
+.btn{display:flex ; justify-content: space-around; margin: 10px 10px 10px 10px;;}
+#prv.btn , #hm.btn , #nx.btn{ width:20%; height:10%; margin:10px 10px 10px 10px ; font-size:25px ; background-color: #131f2b;border:2px solid ; border-radius:20px }
+#prv a , #hm.btn a , #nx a  { text-decoration: none;color: #e5ca8b;}
+.dwn{ width: 50%; height: 25%; }
+
+.block {padding:0 0 0 0; margin:0 0 0 0; }
 .navbar     {background-color: rgba(0, 0, 0, 0.726); witdh:100% , }
 .LPIMG      {width: 100% }
-.navbar a   {text-decoration: none;color: white;padding:10px; font-size:30px}
+.navbar a   {text-decoration: none;color:  #131f2b;padding:10px; font-size:30px}
 .header     {padding:0 0 0 0; margin: 0 0 0 0   ; font color="white"}
 .navbar a:hover{ color: black; }
+
+h1{color: #131f2b; }
